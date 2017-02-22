@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/cz.msebera.android/httpclient/4.3.6/526a9f794eab830eae4f23a62c572878b3f491ab/httpclient-4.3.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="526a9f794eab830eae4f23a62c572878b3f491ab">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpclient-4.3.6_a9218bd795c5ab6962172d2eabd8fcee8539d1ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_6168b35eefbc05942639a7907f27911bd12fd49a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_564f790d679e3d6b9b42b28fe4c0b6cb85057f3e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_df3b40bd59a05c910b924c896f6a452e0aea4967/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_ff753405d1f16aef6c1e0a718a871bdc2f7ebb83/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_abb0b3c0929e5fa7b858b7accc26c2a73988f630/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_54049ca3d4f18d6105d36cfdadea20d4d56c26dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/AndroidStudio_SDK/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.0-beta4/constraint-layout-solver-1.0.0-beta4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a9cb567dc008f570c28531720168f19148da965">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.0-beta4_0af4f7670315b86f0104301df1037a8986756d0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.5.2/ecf534dba3a8446ce84cbb797d314763be212a68/glide-3.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecf534dba3a8446ce84cbb797d314763be212a68">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.5.2_4b29a6cd16f65ea40c17376fb6ecd3188f150384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_8fc4136da50430d41387e97c92263d3c774e0684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="33cc245883e62da001d6eb6d562d37adbec5ef37">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_d01b4cf218b6dd1f0efc342c18582dd593a2efe3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_202627e3e79fb60fddf4ad7e778eff63beab2e61/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.0-beta4/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="662d7533b25a666c649c10a16b42edfb95f25a4f">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support.constraint-constraint-layout-1.0.0-beta4_bce4f0493cf990bd8d213d5456a0f54a810aca67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d923257692371c360921ab8bed60141bcf1728e5">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_23ae095b327530640e4228bc8a47620e5014cf42/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_380e621ec2161d19fce11a0e44d1e6b13bc5d91d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_ca78bb3f8fbec14c3084b08e3a3289857a30ceec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Desktop/Examination/app/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_268d865994f585651ad9c75c6b925c62c56f96f6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/Documents/AndroidStudio_SDK/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_40373894e0ce7ec69511d79b1ed79fc15252a71e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.loopj.android/android-async-http/1.4.9/386a4339ffe52d5d63e80f9bed8d2b1d1a418249/android-async-http-1.4.9.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="386a4339ffe52d5d63e80f9bed8d2b1d1a418249">
+        <dex dex="/Users/admin/Desktop/Examination/app/build/intermediates/transforms/dex/debug/folders/1000/10/android-async-http-1.4.9_d81b26d9127303205803466e0ac554e2e20057ff/classes.dex" />
+    </item>
+
+</items>

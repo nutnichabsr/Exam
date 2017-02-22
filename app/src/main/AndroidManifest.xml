@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="project.examination.com.examination">
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.WRITE_USER_DICTIONARY" />
+
+
+
+    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+    <uses-permission android:name=".permission.MAPS_RECEIVE" />
+
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/buttonsbig10"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".FullscreenActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainActivity">
+
+        </activity>
+        <activity android:name=".Quiz_test_in">
+
+        </activity>
+        <activity android:name=".DetailQuit">
+
+        </activity>
+        <activity android:name=".ScorePrePointandroid">
+
+        </activity>
+        <activity android:name=".MainActivity_1">
+
+        </activity>
+        <activity android:name=".List_Examinnation_All">
+
+        </activity>
+        <activity android:name=".List_Examinnation_Detail">
+
+        </activity>
+        <activity android:name=".Select_Data_list">
+
+        </activity>
+        <activity android:name=".Select_Data_ListAll">
+
+        </activity>
+        <activity android:name=".MainActivity_Register">
+
+        </activity>
+        <activity android:name=".DetailScoe">
+
+        </activity>
+
+    </application>
+
+</manifest>
